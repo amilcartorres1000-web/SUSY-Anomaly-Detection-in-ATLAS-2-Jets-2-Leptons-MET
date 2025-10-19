@@ -67,7 +67,7 @@ Each event represents a reconstructed proton-proton collision consistent with **
 - Events with **high reconstruction error** correspond to **outliers** — candidates for **new physics**.  
 - These events are saved in `susy_candidates.csv` for further physical inspection and hypothesis testing.
 
----S
+---
 
 ## Acknowledgments
 - **ATLAS Collaboration** for making the Run 2 Open Data available.  
@@ -75,7 +75,4 @@ Each event represents a reconstructed proton-proton collision consistent with **
 - Based on open research principles for **High-Energy Physics + Artificial Intelligence** integration.
 
 ---
-
-## Author
-Developed by **Amílcar Torres**, 2025  
 Exploring **Supersymmetry and AI in Collider Physics**
